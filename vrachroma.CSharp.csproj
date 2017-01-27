@@ -75,8 +75,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ChangeColor.cs" />
     <Compile Include="Assets\Scripts\ColorHuePicker.cs" />
     <Compile Include="Assets\Scripts\ColorIndicator.cs" />
+    <Compile Include="Assets\Scripts\ColorManager.cs" />
     <Compile Include="Assets\Scripts\ColorSaturationBrightnessPicker.cs" />
     <Compile Include="Assets\Scripts\Draggable.cs" />
     <Compile Include="Assets\Scripts\ExampleColorReceiver.cs" />
